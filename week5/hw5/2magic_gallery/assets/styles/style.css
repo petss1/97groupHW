@@ -1,0 +1,43 @@
+.header {
+    font-size: 40px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin: 30px;
+}
+
+.images:hover {
+    background-color: rgb(182, 206, 227);
+    background-size: contain;
+    min-height: 100px;
+    position: static;
+    transform: scale(1.03);
+}
+
+.img1 {
+    margin: 70px; 
+    padding: 20px;
+    width: 250px; 
+    height: 300px;
+}
+
+.img2 {
+    margin: 70px; 
+    padding: 20px;
+    width: 250px; 
+    height: 300px;
+}
+
+.img3 {
+    margin: 70px; 
+    padding: 20px;
+    width: 250px; 
+    height: 300px;
+}
+
+.img4 {
+    margin: 70px; 
+    padding: 20px;
+    width: 250px; 
+    height: 300px;
+}
